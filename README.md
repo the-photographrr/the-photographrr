@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @the-photographrr
 - 👀 I’m interested in photography📷, android📱
 - 🌱 I’m currently learning flutter
-- 📫 How to reach me : @link:arunkarooth6@gmail.com
+- 📫 How to reach me : arunkarooth6@gmail.com
