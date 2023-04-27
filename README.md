@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **arunkarooth6@gmail.com**
 
+- :tw-1f517: My personal website <a href="http://arunkarooth.me/resume" target="blank">Click here</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arun_0308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arun_0308" height="30" width="40" /></a>
