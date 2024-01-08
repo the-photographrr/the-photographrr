@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arunkarooth6@gmail.com**
 
-- :tw-1f517: My Resume <a href="https://the-photographrr.github.io/the-photographrr/BTech-CS-ARUN_K.pdf" target="_blank" download>Click here</a>
+- 📂 My Resume <a href="https://the-photographrr.github.io/the-photographrr/BTech-CS-ARUN_K.pdf" target="_blank" download>Click here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
